@@ -1,0 +1,7 @@
+beautifulsoup4
+pandas
+Pillow
+pydantic
+pyopenssl
+requests>=2.25.1
+XlsxWriter
